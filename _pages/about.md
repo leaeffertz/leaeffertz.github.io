@@ -6,7 +6,7 @@ subtitle: <a href='#'>Msc in Applied geoinformatics</a> @University of Salzburg.
 
 profile:
   align: right
-  image: profile_pic.jpeg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items
