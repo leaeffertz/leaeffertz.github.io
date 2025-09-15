@@ -14,25 +14,10 @@
     - title: BSc Digitization - Innovation - Society
       institution: Paris Lodron University Salzburg, Salzburg, Austria
       year: 2019 - 2023
-      description:
-        - Description 1.
-
-        - title: Skills
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
 
     - title: MSc Applied Geoinformatics
       institution: Paris Lodron University Salzburg, Salzburg, Austria
       year: 2023 - 2025
-      description:
-        - Description 1.
-        - Description 2.
-
-        - title: Skills
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
 
 - title: Experience
   type: time_table
@@ -43,15 +28,7 @@
 
     - title: Study Assistant 
       institution: University of Salzburg
-      year: 2023-2025
-      description:
-        - Description 1.
-        - Description 2.
-
-        - title: Skills
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.        
+      year: 2023-2025   
 
     - title: Intern
       institution: Trafficon traffic consultants
@@ -60,13 +37,7 @@
     - title: Software engineer and Project developer
       institution: Trafficon traffic consultants
       year: 2025 - now
-      description:
-        -
-        
-        - title: Skills
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.      
+  
 
 #- title: Open Source Projects
  # type: time_table
@@ -85,20 +56,3 @@
     #- year: 2029
      # items:
       #  - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Powerlifting, Running, Reading, Pen & paper games.

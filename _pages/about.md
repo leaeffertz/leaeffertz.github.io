@@ -6,8 +6,8 @@ subtitle: <a href='#'>Msc in Applied geoinformatics</a> @University of Salzburg.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.JPEG
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p> </p>
 
@@ -20,11 +20,10 @@ Welcome! I am currently completing my Masters in Applied geoinformatics in Salzb
 
 Through my work as a study assistant at the universities' Mobility Lab  and my current occupation at the mobility service provider [Trafficon]("https://www.trafficon.eu/geoservices/"), my current focus centers Mobility research and deepening my software engineering knowledge.
 
-## My Master's Thesis
-I am currently working on my Thesis: 'Spatial patterns of socially sustaina-ble mobility:
-expanding a set of indicators to further include social aspects', which deals with indicator design, data choice and comparing the spatial patterns occuring when calculating indicators for sustainable mobility in Austrian municipalities. Through this thesis i could enhance my knowledge on sustainable transport and related data, as well as the statistical methods to compare and evaluate the metrics chosen.
+### My Master's Thesis
+I am currently working on my Thesis: 'Spatial patterns of socially sustainable mobility: expanding a set of indicators to further include social aspects', which deals with indicator design, data choice and comparing the spatial patterns occuring when calculating indicators for sustainable mobility in Austrian municipalities. Through this thesis i could enhance my knowledge on sustainable transport and related data, as well as the statistical methods to compare and evaluate the metrics chosen.
 
-## What You will find here
+### What You will find here
 This Portfolio page documents my achievements and projects I completed during the Masters program, showcasing my academic journey thus far. 
 
 Thank you for visiting my site - I invite you to explore my work and to look at the projects I completed.
