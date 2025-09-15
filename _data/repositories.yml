@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - leaeffertz
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - leaeffertz/BikeEyeTracking
+  - leaeffertz/PLUS_softwaredev_cloudsort
+  - leaeffertz/geo-application-development-24
+  - leaeffertz/PLUS_softwaredev_2024_s1069046
+
