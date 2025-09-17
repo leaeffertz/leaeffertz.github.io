@@ -6,15 +6,16 @@ subtitle: <a href='#'>Msc in Applied geoinformatics</a> @University of Salzburg.
 
 profile:
   align: right
-  image: profile_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: pic.jpg
+  image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
+latest_posts: false
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcometo my portfolio! I am currently completing my Masters in Applied geoinformatics in Salzburg, where I learned about geo-data acquisition, processing and several analysis methods. I also learned about spatial simulation and analysis methods.
+Welcome to my portfolio! I am currently completing my Masters in Applied geoinformatics in Salzburg, where I learned about geo-data acquisition, processing and several analysis methods. I also learned about spatial simulation and analysis methods.
 
 Through my work as a study assistant at the universities' Mobility Lab  and my current occupation at the mobility service provider Trafficon, my current focus centers Mobility research and deepening my software engineering knowledge.
 
