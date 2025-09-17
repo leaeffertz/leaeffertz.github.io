@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Social Cube - Third places in Salzburg
+description: A Hybrid Web Map informing about third places in Salzburg.
+img: assets/img/7.jpg
+importance: 
+category: university
 ---
 
 Every project has a beautiful feature showcase page.
