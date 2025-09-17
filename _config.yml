@@ -146,11 +146,6 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: false
-    permalink: /:collection/:title/
   projects:
     output: true
     permalink: /:collection/:title/
