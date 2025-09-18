@@ -5,7 +5,6 @@ description: Sorting an image collection by Cloud Coverage for a small area of i
 img: assets/img/clouds.jpg
 importance: 3
 category: university
-related_publications: true
 ---
 
 Cloudsort was a project we completed in the course Practice Software development in Python. The goal was to create a Jupyter-Notebook, that used google earth engine as well as several other python packages to sort an image collection by cloud coverage for a small area of interest. 

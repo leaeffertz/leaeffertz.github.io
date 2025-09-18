@@ -2,79 +2,43 @@
 layout: page
 title: Internship
 description: A short report on the internship I comnpleted during my studies
-img:
+img: assets/img/intern.jpg
 importance: 3
 category: work
 ---
+As part of my Master’s program in Applied Geoinformatics, I completed a two-and-a-half-month internship at Trafficon, a Salzburg-based company specializing in geospatial technologies for sustainable mobility. During my time there, I gained new technical skills and hands-on project experience and got to know a great team and company culture that values innovation, collaboration, and work–life balance.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Internship Overview  
+My internship lasted eleven weeks (July–September 2024), working full-time with a flexible schedule. I joined a collaborative project exploring the possibilities of a **European data space** that integrates multiple data providers, including weather data and simulated floating car data.  
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+My main focus was on **aggregating and matching point data to a road-network graph** and creating an application to calculate average emissions for road segments. This involved:  
+- Researching best practices for handling traffic emission data  
+- Exploring methods and tools for matching point data to network structures  
+- Developing a Java program (with PostgreSQL and Kafka) to process the data and calculate average emissions  
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Work Environment and Culture  
+The work environment at Trafficon was welcoming and collaborative. Everyone was approachable and supportive, which made it easy to learn and grow. Beyond the technical work, I also enjoyed the team culture, from daily coffee breaks and shared lunches to team events like hiking, bouldering, and even a company trip to Munich.  
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+These experiences made me feel part of the team and showed me how much the company values both professional growth and personal well-being.  
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Technical Skills Gained  
+During the internship, I worked with a range of technologies:  
+- **Spring Boot (Java)** for backend development  
+- **Apache Kafka** for handling real-time data streams  
+- **PostgreSQL** for database management and custom functions  
+- **QGIS** for geospatial data handling  
+- **GitLab** for version control and collaboration  
 
-{% raw %}
+I developed an interface connecting Spring and Kafka to receive floating car data, stored it in PostgreSQL, and created functions to match data points to road segments. From there, I implemented emission calculations that fed back into the application.  This process strengthened my skills in backend development, debugging, and database design, and helped me overcome my initial insecurity with Java and large-scale coding projects.  
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
-{% endraw %}
+## Personal Development  
+Beyond technical growth, this internship was also a big step in my personal development. I gained confidence in my coding skills, deepened my expertise in geospatial data, and experienced what it’s like to work full-time in a professional, agile team environment.  
+
+
+## Conclusion  
+My time at Trafficon was a rewarding experience that expanded both my technical and personal skill sets. I now feel more certain about my career path in geoinformatics and sustainable mobility.  I can warmly recommend Trafficon to other students interested in geospatial technologies—especially if you value teamwork, an active lifestyle, and a supportive company culture. 
+
+**Disclaimer: The prior is an excerpt from the report I had to hand in as a part of my studies, shortened with the help of generative AI.**
