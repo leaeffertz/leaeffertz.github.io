@@ -3,7 +3,7 @@ layout: page
 title: All eyes on the landscape
 description: An Agent Based Approach to modelling viewsheds in predator-prey interactions
 img: assets/img/4.jpg
-importance: 1
+importance: 3
 category: university
 related_publications: true
 ---

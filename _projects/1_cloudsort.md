@@ -3,7 +3,7 @@ layout: page
 title: Cloudsort
 description: Sorting an image collection by Cloud Coverage for a small area of interest
 img: assets/img/clouds.jpg
-importance: 1
+importance: 3
 category: university
 related_publications: true
 ---

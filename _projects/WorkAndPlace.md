@@ -3,7 +3,7 @@ layout: page
 title: Work and Place
 description: A Dashboard comapring gender differences in employment in Austria
 img:
-importance: 3
+importance: 4
 category: university
 ---
 
