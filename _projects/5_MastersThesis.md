@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 1
+title: MSc-Thesis "Spatial patterns of socially sustainable mobility: expanding a set of indicators to further include social aspects"
+description:
+img: assets/img/9.jpg
+importance: 
 category: univeristy
 ---
 

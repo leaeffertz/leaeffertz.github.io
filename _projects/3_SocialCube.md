@@ -6,8 +6,7 @@ img: assets/img/social_cube1.png
 importance: 
 category: university
 ---
-Social Cube was created in the Course Geovisualization and Advanced 
-Cartography, in which we as a group created a hybrid Web-Map, that shows different thrid places in Salzburg. a thiord place is a place apart from work and homw, where one can meet others or relax. In the project we focused on cartographic principles and map design. 
+Social Cube was created in the Course Geovisualization and Advanced Cartography, in which we as a group created a hybrid Web-Map, that shows different thrid places in Salzburg. a thiord place is a place apart from work and homw, where one can meet others or relax. In the project we focused on cartographic principles and map design. 
 
 
 <div class="row">
