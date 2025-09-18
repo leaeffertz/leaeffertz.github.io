@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MSc-Thesis "Spatial patterns of socially sustainable mobility: expanding a set of indicators to further include social aspects"
+title: MSc-Thesis "Spatial patterns of socially sustainable mobility - expanding a set of indicators to further include social aspects"
 description:
 img: assets/img/9.jpg
 importance: 1

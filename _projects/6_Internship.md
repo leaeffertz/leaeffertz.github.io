@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Internship
+description: A short report on the internship I comnpleted during my studies
 img:
 importance: 3
-category: university
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
